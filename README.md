@@ -1,0 +1,1 @@
+Calculadora que criei a 3 anos atrás, atualmente estou trabalhando em outro projeto de calculadora web e usarei esse código como orientação. Vale lembrar que mesmo este código possuí erros e também pretendo organizar o projeto calculadora.

@@ -1,0 +1,23 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&family=Lato:wght@100&display=swap');
+
+/* proporção do monitor utilizado durante os exercícios */
+@media all and (orientation: landscape)
+{
+
+#tela {
+  border: 1px solid #000;
+  width: 200px;
+  padding: 10px;
+  text-align: right;
+  margin-bottom: 5px;
+}
+
+button {
+  border: none;
+  margin: 2px;
+  padding: 10px;
+  width: 49px;
+  height: 50px;
+}
+}
